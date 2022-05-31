@@ -1,0 +1,28 @@
+name: stew
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab=3
+  - nodejs
+  - tqdm
+  - matplotlib
+  - ipywidgets
+  - ipyleaflet
+  - pandas
+  - geopandas
+  - osmnx
+  - pyproj
+  - xlrd
+  - Shapely
+  - folium
+  - leafmap
+  - branca
+  - pyarrow
+  - openpyxl
+  - pip
+  - pip:
+    - calplot
+    - july
+    - gdal
