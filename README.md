@@ -97,9 +97,9 @@ Let's start with a farily generic description of the workflow and some details f
    - [05.5-clustering.ipynb](notebooks/05.5-clustering.ipynb) - Hacks to cluster data, also includes the elevation hack
    - [05.6-animated-heatmap.ipynb](notebooks/05.6-animated-heatmap.ipynb) - Want to include the folium animated heatmap for 311
    - [05.7-turfs-and-counts.ipynb](notebooks/05.7-turfs-and-counts.ipynb) - Used to add information to the display/overlays
-   - [05.8-network-based-clusters.ipynb](notebooks/05.8-network-based-clusters.ipynb) - This one might be next on my list
-   - [05.9-turfs-sn.ipynb](notebooks/05.9-turfs-sn.ipynb) - This one might be next on my list
+   - [05.8-network-based-clusters.ipynb](notebooks/05.8-network-based-clusters.ipynb) - Place holder for network based clustering of point features.  Based on Geoff Boeing's work.
+   - [05.9-turfs-sn.ipynb](notebooks/05.9-turfs-sn.ipynb) - Linking alters to turfs for first demo.
    
    
- A refence on the environment and data organization can be found in [ENV.md](ENV.md)
+ Reference material on the environment and data organization can be found in [ENV.md](ENV.md)
    
