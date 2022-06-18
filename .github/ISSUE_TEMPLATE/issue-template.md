@@ -17,14 +17,14 @@ assignees: ''
 ### Resources/Instructions
 [link title](link URL)
 
-### Resume
+### Knowledge Base
 
-UX Writing:
+KE:
 -
 -
-UI Mockup:
+Tools:
 -
 -
-Developers:
+Data Issues:
 -
 -
